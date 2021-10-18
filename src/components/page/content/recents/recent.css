@@ -1,0 +1,5 @@
+.grid {
+  display: grid;
+  grid-template-columns: 300px calc(300px - 100vw);
+  grid-template-rows: 1fr;
+}
