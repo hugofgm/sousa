@@ -1,0 +1,7 @@
+.hr {
+  border: 0;
+  padding: 0;
+  height: 2px;
+  width: 100%;
+  background-image: linear-gradient(to right, transparent, #ccc, transparent);
+}
